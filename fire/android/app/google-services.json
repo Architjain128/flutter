@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1041843877143",
+    "project_id": "codelab-92e6f",
+    "storage_bucket": "codelab-92e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041843877143:android:da42a9df99e89ed91c3352",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041843877143-i5g13k7g6c97gn7gngdmjcsh0u413bau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8hQXTKtKhsqB3QvaqE6esFJILJ-J0-3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041843877143-i5g13k7g6c97gn7gngdmjcsh0u413bau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041843877143-4qt5lau58sh72kgvvos309g26jvvbld3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
